@@ -36,7 +36,7 @@ const storage = new CloudinaryStorage({
     const fileExtension = file.originalname.split('.').pop().toLowerCase();
     let resourceType = 'auto';
     
-    // Organize by file type in Cloudinary folders
+    // Organize by file type in Cloudinary folders 
     let folder = 'techflow/documents';
     if (['jpg', 'jpeg', 'png'].includes(fileExtension)) {
       folder = 'techflow/images';
