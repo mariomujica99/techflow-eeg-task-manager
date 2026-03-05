@@ -4,7 +4,7 @@
 # Techflow EEG Task Manager
 ### Workflow Management System
 
-[![Website](https://img.shields.io/badge/Techflow-EEG_Task_Manager-30b5b2?style=for-the-badge)](https://techflow-eeg.onrender.com)
+[![Website](https://img.shields.io/badge/Website-EEG_Task_Manager-30b5b2?style=for-the-badge)](https://techflow-eeg.onrender.com)
 [![YouTube](https://img.shields.io/badge/Video_Demo-YouTube-red?style=for-the-badge)](https://youtu.be/jFayn1NAa2k)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Mujica-blue?style=for-the-badge)](https://www.linkedin.com/in/mario-mujica-903b19172)
 
@@ -62,7 +62,7 @@ This application was built to demonstrate my full-stack development skills inclu
 - Task Visibility: Difficult to track what's been completed versus what needs attention, especially across shifts
 - Equipment Issues: Computer station problems aren't consistently documented or tracked
 
-**Solution:** Techflow brings everything related to our department into one central, accessible location. Think of it as a digital command center for EEG operations.
+**Solution:** Techflow brings everything related to our department into one central, accessible location. It is as a digital command center for EEG operations.
 
 ---
 
@@ -74,31 +74,31 @@ This application was built to demonstrate my full-stack development skills inclu
   <tr>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/597c74bb-662d-4108-a791-310ec17b66e2" alt="Mac PWA Icon" width="100%" />
-      <p align="center"><em>Mac PWA App Icon</em></p>
+      <p align="center">Mac PWA App Icon</p>
     </td>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/5925f097-eb64-497e-8cb1-52278e2af187" alt="Safari Favorites" width="100%" />
-      <p align="center"><em>Safari Favorites App Icon</em></p>
+      <img src="https://github.com/user-attachments/assets/4913851b-0b9c-4be8-93cb-fa58da615ac9" alt="Safari Favorites" width="100%" />
+      <p align="center">Safari Favorites App Icon</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/44f2c110-e86e-4b7b-9bd4-21194ee23dbb" alt="Safari Install" width="100%" />
-      <p align="center"><em>Safari Mac PWA Install</em></p>
+      <p align="center">Safari Mac PWA Install</p>
     </td>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/651bc97d-54cb-4f7f-ad30-006acb889977" alt="Chrome Install" width="100%" />
-      <p align="center"><em>Chrome Mac PWA Install</em></p>
+      <p align="center">Chrome Mac PWA Install</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/5780cea4-18b9-4890-b8dd-79acef326d8f" alt="Techflow PWA Mac Log In Screen" width="100%"  />
-      <p align="center"><em>Mac PWA Log In Screen</em></p>
+      <p align="center">Mac PWA Log In Screen</p>
     </td>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/d6c6c49d-b4f1-4655-8b92-eb70901193f4" alt="Dashboard" width="100%" />
-      <p align="center"><em>Mac PWA Dashboard</em></p>
+      <p align="center">Mac PWA Dashboard</p>
     </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@ This application was built to demonstrate my full-stack development skills inclu
 
 ### **Demo Accounts**
 
-**Member Account**
+**User Account**
 ```
 Email: userdemo@gmail.com
 Password: Demo2026!
