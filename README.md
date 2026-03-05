@@ -1,16 +1,30 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/93b3fb76-371f-4fa4-b88c-927e28067a36" alt="Techflow Logo" width="100" height="100" />
   
-# Techflow
-### EEG Workflow Management System
+# Techflow EEG Task Manager
+### Workflow Management System
 
-[![Website](https://img.shields.io/badge/Website-Techflow-30b5b2?style=for-the-badge)](https://techflow-eeg.onrender.com)
+[![Website](https://img.shields.io/badge/Techflow-EEG_Task_Manager-30b5b2?style=for-the-badge)](https://techflow-eeg.onrender.com)
 [![YouTube](https://img.shields.io/badge/Video_Demo-YouTube-red?style=for-the-badge)](https://youtu.be/jFayn1NAa2k)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Mujica-blue?style=for-the-badge)](https://www.linkedin.com/in/mario-mujica-903b19172)
 
-> A comprehensive Progressive Web App (PWA) for EEG Technologists in the hospital neurophysiology department. This project streamlines EEG workflow management, equipment tracking, and team collaboration.
+A comprehensive Progressive Web App (PWA) for EEG Technologists in the hospital neurophysiology department. This project streamlines EEG workflow management, equipment tracking, and team collaboration.
 
 </div>
+
+---
+
+> ### About This Repository
+> This is the **full-featured version** of Techflow, including the Task Management System. The production-deployed version lives in a separate repository.
+>
+> The Task Management System (EEG orders, patient room tracking, procedure checklists) is not included in the production version as a deliberate compliance decision. Tracking patient room assignments and procedure-level data requires a formal HIPAA compliance review before deployment in a clinical environment. This repository preserves the full feature set for portfolio and demonstration purposes.
+
+---
+
+> ### Production Deployment
+>[![Techflow](https://img.shields.io/badge/Techflow-Repo-30b5b2?style=for-the-badge&logo=github)](https://github.com/mariomujica99/techflow)  
+> **Want to explore just the production tools?**  
+> The production-deployed version is the same core platform with multi-department support built in.
 
 ---
 
@@ -99,7 +113,7 @@ This application was built to demonstrate my full-stack development skills inclu
 
 ### **Website Application**
 
-[![Open Techflow](https://img.shields.io/badge/Open_Website-Techflow-30b5b2?style=for-the-badge&logo=link&logoColor=white)](https://techflow-eeg.onrender.com)
+[![Open Techflow](https://img.shields.io/badge/Open_Techflow-EEG_Task_Manager-30b5b2?style=for-the-badge&logo=link&logoColor=white)](https://techflow-eeg.onrender.com)
 
 *Production deployment with full functionality - feel free to try it for yourself*
 
@@ -108,13 +122,13 @@ This application was built to demonstrate my full-stack development skills inclu
 **Member Account**
 ```
 Email: userdemo@gmail.com
-Password: Demo2025!
+Password: Demo2026!
 ```
 
 **Admin Account**
 ```
 Email: admindemo@gmail.com
-Password: Demo2025!
+Password: Demo2026!
 ```
 
 ### **Demo Account Restrictions**
